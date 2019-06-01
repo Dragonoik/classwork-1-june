@@ -1,0 +1,22 @@
+.col1{
+	background-color: #C437D3;
+	height: 200px;
+}
+
+.col2{
+	background-color: white;
+	height: auto;
+}
+
+.col3{
+	background-color: #39E444;
+	height: 200px;
+}
+
+.p-width{
+	width: 90%;
+}
+
+.img-ball{
+	width: 100px;
+}
